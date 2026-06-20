@@ -7,8 +7,8 @@ In summary, RNA-Seq is a powerful tool in transcriptomics that transforms raw RN
 Download (FASTQ)
  ⬇
  Quality Check & Control
- → Quality Check (FastQC)
- → Quality Control (Trimmomatic)
+ . Quality Check (FastQC)
+ . Quality Control (Trimmomatic)
  Output: Filtered FASTQ
  ⬇
  Reference Genome Preparation using RSEM
